@@ -1,6 +1,7 @@
 site_name: potyk-wiki
 site_url: https://potyk.io/potyk-wiki
 site_dir: site
+repo_url: https://github.com/potykion/potyk-wiki
 
 theme:
   name: material
